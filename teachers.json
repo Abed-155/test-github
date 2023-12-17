@@ -1,0 +1,16 @@
+[
+    {
+        "name":"Abed Ali",
+        "position":"Assistant Teacher",
+        "phone":"01966430147",
+        "dateOfBirth":"25-05-1997",
+        "joiningDate":"26-12-2022"
+    },
+    {
+        "name":"Miftahul Jannat",
+        "position":"Assistant Teacher",
+        "phone":"01708178377",
+        "dateOfBirth":"25-05-1999",
+        "joiningDate":"02-05-2026"
+    }
+]
